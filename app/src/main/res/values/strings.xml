@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application MSA</string>
+    <string name="description">Known as the Application that revitalised the works of workplace by many companies, PocketWire aims to seamlessly connect technology to their workspace. With PocketWire, workers can forget the need for paper-and-pen but still continue the flow of information throughout the workspace. Some ground-breaking features include: \n \n • Updating product information and expiry date from anywhere \n• Delete irrelevant product information \n • Filter and view products based on specific desired expiry date</string>
+    <string-array name="spinnerthings">
+        <item>1 Month</item>;
+        <item>3 Month</item>;
+        <item>6 Month</item>;
+    </string-array>
+    <color name="babyblue">#90DAFC</color>
+
+
+</resources>
+
+
